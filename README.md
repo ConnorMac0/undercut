@@ -1,6 +1,6 @@
 # Undercut
 
-[![CI](https://github.com/<your-username>/<your-repo>/actions/workflows/ci.yml/badge.svg)](https://github.com/<your-username>/<your-repo>/actions/workflows/ci.yml)
+[![CI](https://github.com/ConnorMac0/undercut/actions/workflows/ci.yml/badge.svg)](https://github.com/ConnorMac0/undercut/actions/workflows/ci.yml)
 
 A multi-tenant motorsport prediction league platform built with ASP.NET Core. Each league is an isolated tenant with its own members, picks, and scoring rules. Players predict race podiums before a server-enforced lock deadline, and results are scored idempotently after each race.
 
