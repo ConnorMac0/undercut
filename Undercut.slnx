@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Undercut.Api/Undercut.Api.csproj" />
+    <Project Path="src/Undercut.Domain/Undercut.Domain.csproj" />
+    <Project Path="src/Undercut.Infrastructure/Undercut.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Undercut.Tests/Undercut.Tests.csproj" />
+  </Folder>
+</Solution>

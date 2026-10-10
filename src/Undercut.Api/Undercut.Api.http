@@ -1,0 +1,6 @@
+@Undercut.Api_HostAddress = http://localhost:5189
+
+GET {{Undercut.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
